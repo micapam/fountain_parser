@@ -13,7 +13,7 @@ A parser for Fountain, forked from [EarmarkParser](https://github.com/robertdobe
 
 ## Table Of Contents
 
-%toc
+ %toc
 
 ## Dependency
 
@@ -21,13 +21,13 @@ A parser for Fountain, forked from [EarmarkParser](https://github.com/robertdobe
 
 ## Usage
 
-%moduledoc EarmarkParser
+ %moduledoc EarmarkParser
 
 ## Details
 
 ## `EarmarkParser.as_ast/2`
 
-%functiondoc EarmarkParser.as_ast/2
+ %functiondoc EarmarkParser.as_ast/2
 
 ## Contributing
 
