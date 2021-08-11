@@ -17,8 +17,6 @@ A parser for Fountain, forked from [EarmarkParser](https://github.com/robertdobe
 [![Hex.pm](https://img.shields.io/hexpm/dw/earmark_parser.svg)](https://hex.pm/packages/earmark_parser)
 [![Hex.pm](https://img.shields.io/hexpm/dt/earmark_parser.svg)](https://hex.pm/packages/earmark_parser)
 
---->
-
 ## Table Of Contents
 
 <!-- BEGIN generated TOC -->
@@ -424,6 +422,8 @@ Copyright © 2014,5,6,7,8,9;2020 Dave Thomas, The Pragmatic Programmers
 @/+pragdave,  dave@pragprog.com
 Copyright © 2020 Robert Dober
 robert.dober@gmail.com
+
+--->
 
 ## LICENSE
 
