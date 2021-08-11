@@ -5,7 +5,11 @@
    It is created from README.template and several docstrings by means of the mix task `readme`
 -->
 
-# EarmarkParser A Pure Elixir Markdown Parser (split from Earmark)
+# FountainParser
+
+A parser for Fountain, forked from [EarmarkParser](https://github.com/robertdober/earmark_parser).
+
+<!---
 
 [![CI](https://github.com/robertdober/earmark_parser/workflows/CI/badge.svg)](https://github.com/robertdober/earmark_parser/actions)
 [![Coverage Status](https://coveralls.io/repos/github/RobertDober/earmark_parser/badge.svg?branch=master)](https://coveralls.io/github/RobertDober/earmark_parser?branch=master)
@@ -13,6 +17,7 @@
 [![Hex.pm](https://img.shields.io/hexpm/dw/earmark_parser.svg)](https://hex.pm/packages/earmark_parser)
 [![Hex.pm](https://img.shields.io/hexpm/dt/earmark_parser.svg)](https://hex.pm/packages/earmark_parser)
 
+--->
 
 ## Table Of Contents
 
